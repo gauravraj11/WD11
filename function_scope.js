@@ -31,19 +31,22 @@
 //     }
 // }
 
-var A = {
-    "name": "mern2",
-    "desig" : "faculty2",
-    sub: function(){
+// var A = {
+//     "name": "mern2",
+//     "desig" : "faculty2",
+//     sub: function(){
 
-    },
-    add : function(){
+//     },
+//     add : function(){
         
-        function abc(){
-            console.log(this);   
-        }
-        abc();
-    }
-}
+//         function abc(){
+//             console.log(this);   
+//         }
+//         abc();
+//     }
+// }
+
+
+
 
 A.add();
