@@ -4,8 +4,8 @@ function A() {
     function B() {
       console.log(name);
     }
-    return B;
+     return B;
   }
-  
+  // A();
   const C = A();
   C();
